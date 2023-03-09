@@ -1,6 +1,4 @@
-
-simple_codes/terraform.tfstate.backup
-simple_codes/terraform.tfstate
-*.hcl
-simple_codes/.terraform/providers/registry.terraform.io/hashicorp/aws/4.56.0/windows_amd64/terraform-provider-aws_v4.56.0_x5.exe
-simple_codes/core.tf
+.terraform.lock.hcl
+.terraform
+*.tfstate
+*.tfstate.backup
